@@ -1,0 +1,11 @@
+{
+	"name": "music-visualizer",
+	"version": "1.0.0",
+	"main": "index.js",
+	"license": "MIT",
+	"dependencies": {
+		"node-openpixelcontrol-stream-es6": "^1.0.0",
+		"node-webaudioapi-es6": "^1.0.1",
+		"openpixelcontrol-stream": "^0.1.2"
+	}
+}
